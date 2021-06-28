@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<PurchaseOrders>
+  <PurchaseOrder PurchaseOrderNumber="99503" OrderDate="2021-07-20">
+    <Address Type="Shipping">
+      <Name>Ellen Adams</Name>
+      <Street>123 Maple Street</Street>
+      <City>Mill Valley</City>
+      <State>CA</State>
+      <Zip>10999</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Tai Yee</Name>
+      <Street>8 Oak Avenue</Street>
+      <City>Old Town</City>
+      <State>PA</State>
+      <Zip>95819</Zip>
+      <Country>USA</Country>
+    </Address>
+    <DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>
+    <Items>
+      <Item PartNumber="872-AA">
+        <ProductName>Lawnmower</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>148.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+      </Item>
+      <Item PartNumber="926-AA">
+        <ProductName>Baby Monitor</ProductName>
+        <Quantity>2</Quantity>
+        <USPrice>39.98</USPrice>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99504" OrderDate="2021-06-15">
+    <Address Type="Shipping">
+      <Name>Kent Scottie</Name>
+      <Street>4564 Benson Street</Street>
+      <City>Eau Claire</City>
+      <State>WI</State>
+      <Zip>54701</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Kent Scottie</Name>
+      <Street>4564 Benson Street</Street>
+      <City>Eau Claire</City>
+      <State>WI</State>
+      <Zip>54701</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Items>
+      <Item PartNumber="788-AA">
+        <ProductName>Fruit mixer</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>99.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99505" OrderDate="2021-08-03">
+    <Address Type="Shipping">
+      <Name>Lori Tim</Name>
+      <Street>3433 Parker Drive</Street>
+      <City>Garfield Heights</City>
+      <State>OH</State>
+      <Zip>44125</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Damon Marlee</Name>
+      <Street>1797 Tenmile Road</Street>
+      <City>Waltham</City>
+      <State>MA</State>
+      <Zip>02154</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Items>
+      <Item PartNumber="872-AA">
+        <ProductName>Television</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>548.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+      </Item>
+      <Item PartNumber="586-AA">
+        <ProductName>Toaster</ProductName>
+        <Quantity>2</Quantity>
+        <USPrice>39.98</USPrice>
+      </Item>
+      <Item PartNumber="586-AA">
+        <ProductName>Spray paint</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>12.98</USPrice>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+</PurchaseOrders>
