@@ -1,0 +1,18 @@
+<stores>
+	<store>
+		<name>Store_1</name>
+		<address>12 Orchestra Terrace</addres>
+	</store>
+	<store>
+		<name>Store_2</name>
+		<address>4564 Benson Street</addres>
+	</store>
+	<store>
+		<name>Store_3</name>
+		<address>3433 Parker Drive</addres>
+	</store>
+	<store>
+		<name>Store_4</name>
+		<address>1890 Jenna Lane</addres>
+	</store>
+</stores>
