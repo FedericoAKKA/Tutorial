@@ -58,6 +58,58 @@
       </Item>
     </Items>
   </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99504" OrderDate="2021-06-15">
+    <Address Type="Shipping">
+      <Name>Kent Scottie</Name>
+      <Street>4564 Benson Street</Street>
+      <City>Eau Claire</City>
+      <State>WI</State>
+      <Zip>54701</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Kent Scottie</Name>
+      <Street>4564 Benson Street</Street>
+      <City>Eau Claire</City>
+      <State>WI</State>
+      <Zip>54701</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Items>
+      <Item PartNumber="788-AA">
+        <ProductName>Fruit mixer</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>99.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+      </Item>
+    </Items>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99504" OrderDate="2021-06-15">
+    <Address Type="Shipping">
+      <Name>Kent Scottie</Name>
+      <Street>4564 Benson Street</Street>
+      <City>Eau Claire</City>
+      <State>WI</State>
+      <Zip>54701</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Kent Scottie</Name>
+      <Street>4564 Benson Street</Street>
+      <City>Eau Claire</City>
+      <State>WI</State>
+      <Zip>54701</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Items>
+      <Item PartNumber="788-AA">
+        <ProductName>Fruit mixer</ProductName>
+        <Quantity>1</Quantity>
+        <USPrice>99.95</USPrice>
+        <Comment>Confirm this is electric</Comment>
+      </Item>
+    </Items>
+  </PurchaseOrder>
   <PurchaseOrder PurchaseOrderNumber="99505" OrderDate="2021-08-03">
     <Address Type="Shipping">
       <Name>Lori Tim</Name>
