@@ -107,5 +107,44 @@
         <Country>USA</Country>
       </FullAddress>
     </Customer>
+	<Customer CustomerID="LETSS">
+      <CompanyName>Let's Stop N Shop</CompanyName>
+      <ContactName>Jaime Yorres</ContactName>
+      <ContactTitle>Owner</ContactTitle>
+      <Phone>(415) 555-5938</Phone>
+      <FullAddress>
+        <Address>87 Polk St. Suite 5</Address>
+        <City>San Francisco</City>
+        <Region>CA</Region>
+        <PostalCode>94117</PostalCode>
+        <Country>USA</Country>
+      </FullAddress>
+    </Customer>
+	<Customer CustomerID="LETSS">
+      <CompanyName>Let's Stop N Shop</CompanyName>
+      <ContactName>Jaime Yorres</ContactName>
+      <ContactTitle>Owner</ContactTitle>
+      <Phone>(415) 555-5938</Phone>
+      <FullAddress>
+        <Address>87 Polk St. Suite 5</Address>
+        <City>San Francisco</City>
+        <Region>CA</Region>
+        <PostalCode>94117</PostalCode>
+        <Country>USA</Country>
+      </FullAddress>
+    </Customer>
+	<Customer CustomerID="LETSS">
+      <CompanyName>Let's Stop N Shop</CompanyName>
+      <ContactName>Jaime Yorres</ContactName>
+      <ContactTitle>Owner</ContactTitle>
+      <Phone>(415) 555-5938</Phone>
+      <FullAddress>
+        <Address>87 Polk St. Suite 5</Address>
+        <City>San Francisco</City>
+        <Region>CA</Region>
+        <PostalCode>94117</PostalCode>
+        <Country>USA</Country>
+      </FullAddress>
+    </Customer>
   </Customers>
 </Root>
